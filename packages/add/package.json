@@ -12,5 +12,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "d7a3124b357500b36a1977bd3e45bd55321b308e"
+  "gitHead": "52dfecf28e0a762ed6ffe1166c7a0eafdcc21809",
+  "dependencies": {
+    "axios": "^0.21.3"
+  }
 }
