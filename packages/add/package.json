@@ -1,6 +1,6 @@
 {
   "name": "add",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "944becd1c97581159584647119381519e106870d"
+  "gitHead": "d7a3124b357500b36a1977bd3e45bd55321b308e"
 }
